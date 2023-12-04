@@ -1,9 +1,10 @@
-package xyz.brandon.hangmanjava.components;
-
-import xyz.brandon.hangmanjava.managers.GuessButtonListener;
-import xyz.brandon.hangmanjava.managers.HangmanGame;
+package xyz.vatey.hangmanjava.components;
 
 import javax.swing.*;
+
+import xyz.vatey.hangmanjava.managers.GuessButtonListener;
+import xyz.vatey.hangmanjava.managers.HangmanGame;
+
 import java.awt.*;
 import java.util.ArrayList;
 

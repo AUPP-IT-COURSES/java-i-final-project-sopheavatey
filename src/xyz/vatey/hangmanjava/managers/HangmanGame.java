@@ -1,8 +1,9 @@
-package xyz.brandon.hangmanjava.managers;
-
-import xyz.brandon.hangmanjava.components.HangmanFrame;
+package xyz.vatey.hangmanjava.managers;
 
 import javax.swing.*;
+
+import xyz.vatey.hangmanjava.components.HangmanFrame;
+
 import java.awt.event.WindowEvent;
 import java.util.ArrayList;
 

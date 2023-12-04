@@ -1,8 +1,8 @@
-package xyz.brandon.hangmanjava;
-
-import xyz.brandon.hangmanjava.managers.HangmanGame;
+package xyz.vatey.hangmanjava;
 
 import javax.swing.*;
+
+import xyz.vatey.hangmanjava.managers.HangmanGame;
 
 /**
  * Main hangman class, run to play hangman game!

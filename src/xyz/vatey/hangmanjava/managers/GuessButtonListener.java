@@ -1,4 +1,4 @@
-package xyz.brandon.hangmanjava.managers;
+package xyz.vatey.hangmanjava.managers;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

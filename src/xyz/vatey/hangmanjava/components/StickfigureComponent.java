@@ -1,4 +1,4 @@
-package xyz.brandon.hangmanjava.components;
+package xyz.vatey.hangmanjava.components;
 
 import javax.swing.*;
 import java.awt.*;
